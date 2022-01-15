@@ -1,0 +1,1 @@
+72b64d5da224633405e1289199e1190249e34f98fa7b4423756d094d982a04c5  ./target/wasm32-unknown-unknown/release/terra_smartcontract.wasm
